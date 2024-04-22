@@ -1,0 +1,5 @@
+Flask==2.2.3
+langchain==0.1.16
+langchain_anthropic==0.1.11
+langchain_core==0.1.45
+twilio==9.0.4
