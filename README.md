@@ -5,6 +5,8 @@ This project was an idea I had since a while as I strongly believe the best way 
 
 Imagine you could pick up your phone & continue your conversation with someone about whatever YOU would like to talk about. Enter lingo_claude.
 
+<img width="1116" alt="Screenshot 2024-04-23 at 11 39 42" src="https://github.com/perfection1sta/lingo_claude/assets/125658195/4390ff2f-a664-4a99-a01c-c896b30b2ff4">
+
 To use the app, install the requirements.txt file. Copy or create a pull request. Set up your API keys and save them as environment variables.
 
 Ensure you run ngrok & flask on the same local port. Enter the ngrok URI into the Twilio Sandbox config in 'When a message comes in'. Hit save.
